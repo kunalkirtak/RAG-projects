@@ -58,6 +58,8 @@ User question --> embed query --> FAISS similarity search --> top-k chunks
 │   ├── raw/                 # Uploaded PDFs
 │   ├── processed/           # Extracted text (JSON)
 │   └── chunks/               # Chunked text (JSON)
+├── notebooks/
+│   └── PDF_Chatbot_RAG.ipynb
 ├── vector_store/             # faiss_index.bin + metadata.json
 ├── logs/
 └── screenshots/
