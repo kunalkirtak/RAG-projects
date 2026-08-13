@@ -88,7 +88,7 @@ company-knowledge-assistant/
 ├── Dockerfile
 ├── app.py                       # CLI entry point
 ├── data/
-│   ├── .pdf file
+│   └── .pdf file
 ├── src/
 │   ├── loader.py                  # PDF / DOCX / TXT loading
 │   ├── splitter.py                # Custom sentence-aware chunking
