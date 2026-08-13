@@ -152,4 +152,4 @@ Sources:
 
 ## License
 
-Released under the [MIT License](LICENSE).\n
+Released under the [MIT License](LICENSE).
