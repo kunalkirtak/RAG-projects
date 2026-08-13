@@ -41,7 +41,6 @@ User question --> embed query --> FAISS similarity search --> top-k chunks
 ├── search_demo.py           # CLI similarity-search demo
 ├── requirements.txt
 ├── Dockerfile
-├── LICENSE
 ├── .gitignore
 ├── config/
 │   └── config.py            # Chunking, retrieval & model settings
