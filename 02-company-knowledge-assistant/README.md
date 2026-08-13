@@ -86,7 +86,6 @@ company-knowledge-assistant/
 ├── requirements.txt
 ├── .gitignore
 ├── Dockerfile
-├── LICENSE
 ├── app.py                       # CLI entry point
 ├── data/
 │   ├── uploaded_docs/            # Uploaded source documents
