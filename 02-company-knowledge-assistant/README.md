@@ -125,7 +125,7 @@ company-knowledge-assistant/
 ### Option B — Run locally
 
 ```bash
-git clone https://github.com/<your-username>/company-knowledge-assistant.git
+git clone https://github.com/kunalkirtak/company-knowledge-assistant.git
 cd company-knowledge-assistant
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
