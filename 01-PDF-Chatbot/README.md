@@ -137,7 +137,7 @@ Sources:
 ```
 
 ## Screenshots
-> `![Chat UI](screenshots/chat.png)`
+> ![Chat UI](screenshots/chat.png)
 
 ## Future Improvements
 
