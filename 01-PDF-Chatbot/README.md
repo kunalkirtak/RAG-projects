@@ -78,7 +78,7 @@ User question --> embed query --> FAISS similarity search --> top-k chunks
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/01-PDF-Chatbot.git
+git clone https://github.com/kunalkirtak/01-PDF-Chatbot.git
 cd 01-PDF-Chatbot
 
 python -m venv venv
@@ -137,9 +137,7 @@ Sources:
 ```
 
 ## Screenshots
-
-> _Add screenshots of the Streamlit UI here, e.g._
-> `![Chat UI](screenshots/chat_ui.png)`
+> `![Chat UI](screenshots/chat.png)`
 
 ## Future Improvements
 
