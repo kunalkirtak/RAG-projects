@@ -88,8 +88,7 @@ company-knowledge-assistant/
 ├── Dockerfile
 ├── app.py                       # CLI entry point
 ├── data/
-│   ├── uploaded_docs/            # Uploaded source documents
-│   └── vector_store/             # Persisted FAISS index + metadata
+│   ├── .pdf file
 ├── src/
 │   ├── loader.py                  # PDF / DOCX / TXT loading
 │   ├── splitter.py                # Custom sentence-aware chunking
