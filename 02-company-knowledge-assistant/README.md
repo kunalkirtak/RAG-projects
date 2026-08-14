@@ -177,11 +177,9 @@ docker run -p 8000:8000 -e GEMINI_API_KEY="your-real-api-key" company-knowledge-
 
 ## 🖼️ Screenshots
 
-> Add UI screenshots to `docs/screenshots/` and reference them here.
+> UI screenshots `docs/screenshots/`
 
-| Chat UI | Source Citations |
-|---------|-------------------|
-| ![chat](docs/screenshots/chat.png) | ![sources](docs/screenshots/sources.png) |
+![chat](docs/screenshots/chat.png)
 
 ---
 
