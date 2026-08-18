@@ -1,0 +1,18 @@
+# Default application configuration.
+# Values here are overridden by environment variables (see .env.example),
+# which are in turn overridden by explicit keyword args to load_config().
+
+gemini_model: gemini-3.5-flash
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+
+chunk_size: 800
+chunk_overlap: 120
+chunking_strategy: recursive   # recursive | semantic
+
+top_k: 5
+hybrid_alpha: 0.6              # 1.0 = pure vector search, 0.0 = pure BM25
+max_context_tokens: 3000
+temperature: 0.3
+
+request_timeout: 60
+max_retries: 3
