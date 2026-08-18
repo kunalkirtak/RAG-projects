@@ -1,0 +1,21 @@
+Renewable energy comes from naturally replenishing sources such as sunlight,
+wind, water, and geothermal heat. Unlike fossil fuels, renewable sources do
+not run out on human timescales and typically produce far fewer greenhouse
+gas emissions during operation.
+
+Solar panels convert sunlight into electricity using the photovoltaic
+effect: photons striking a semiconductor material (usually silicon) knock
+electrons loose, generating a flow of electric current. Panel efficiency —
+the percentage of sunlight converted into usable electricity — has improved
+significantly over the past two decades, with commercial panels now
+commonly exceeding 20% efficiency.
+
+Wind turbines convert the kinetic energy of moving air into electricity via
+a rotor connected to a generator. Offshore wind farms can capture stronger,
+more consistent winds than onshore installations, though they are more
+expensive to build and maintain.
+
+Battery storage is a critical complement to renewable generation, since
+solar and wind output varies with weather and time of day. Grid-scale
+lithium-ion battery installations help smooth out this variability by
+storing excess generation for use during low-production periods.
