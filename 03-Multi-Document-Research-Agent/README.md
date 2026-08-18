@@ -180,8 +180,6 @@ and chat with full source citations and response timing per turn.
 ```
 03_Multi_Document_Research_Agent/
 ├── README.md
-├── LICENSE
-├── .gitignore
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
