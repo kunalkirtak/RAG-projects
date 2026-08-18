@@ -1,0 +1,24 @@
+Artificial intelligence (AI) is the simulation of human intelligence processes
+by machines, especially computer systems. Machine learning is a subset of AI
+that enables systems to learn patterns from data without being explicitly
+programmed for every rule. Deep learning uses artificial neural networks with
+many layers to model complex, non-linear relationships in large datasets.
+
+Natural language processing (NLP) allows computers to understand, interpret,
+and generate human language. Large language models (LLMs) are a class of deep
+learning models trained on massive text corpora that can perform a wide range
+of language tasks, from summarization to translation to question answering.
+
+Retrieval-augmented generation (RAG) combines a retrieval system — typically a
+vector database — with a generative language model. Instead of relying purely
+on knowledge memorized during training, a RAG system retrieves relevant
+passages from an external document collection and conditions the model's
+answer on that retrieved context. This reduces hallucination, improves
+factual accuracy, and allows the system to answer questions about documents
+the underlying model has never seen before.
+
+Hybrid search combines dense vector similarity search with sparse lexical
+search methods like BM25. Vector search excels at capturing semantic meaning
+even when exact keywords differ, while BM25 excels at precise keyword and
+terminology matching. Fusing both rankings — for example with Reciprocal Rank
+Fusion — typically outperforms either method alone.
