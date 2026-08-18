@@ -79,10 +79,11 @@ indexing, evaluation harness, REST API, chat UI, Docker packaging, and CI.
 
 ---
 
-##  Screenshots
+## 🖼️ Screenshots
 
-> _Add screenshots after running the app locally:_
-![chat](assets/chat.png)
+> UI screenshots `docs/screenshots/`
+
+![chat](docs/screenshots/chat.png)
 
 
 ---
