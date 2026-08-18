@@ -105,7 +105,7 @@ indexing, evaluation harness, REST API, chat UI, Docker packaging, and CI.
 ##  Local Setup
 
 ```bash
-git clone https://github.com/<your-username>/03_Multi_Document_Research_Agent.git
+git clone https://github.com/kunalkirtak/03_Multi_Document_Research_Agent.git
 cd 03_Multi_Document_Research_Agent
 
 python3 -m venv venv
