@@ -82,7 +82,8 @@ indexing, evaluation harness, REST API, chat UI, Docker packaging, and CI.
 ##  Screenshots
 
 > _Add screenshots after running the app locally:_
-assets/chat.png
+![chat](assets/chat.png)
+
 
 ---
 
